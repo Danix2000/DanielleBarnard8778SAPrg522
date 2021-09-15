@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'DanielleBarnard8778SAPrg522'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F72F9A838D5B4011BBAF53C79635F224 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F6F9290E2BA44E4F8C6C55A428762E96 }}
           package: .
